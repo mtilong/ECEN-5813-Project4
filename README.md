@@ -11,7 +11,7 @@ Pull the repo from github
 Import it into MCUXpresso IDE
 Simply run the function. Since it is the onboard accelerometer that is being used, no added hardware is need. 
 
-# Repo Content
+# Repo Content in The Source File
 delay.c
 delay.h
 i2c.c
